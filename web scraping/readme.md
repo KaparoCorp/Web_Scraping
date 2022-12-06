@@ -13,6 +13,12 @@ There are methods that some websites use to prevent web scraping, such as detect
 
 ## Installing Beautiful Soup
 
-'''
+```
 pip install beautifulsoup
-'''
+```
+## Working with beautiful soup
+
+We need to import it by 
+
+```
+from bs4 import BeautifulSoup
